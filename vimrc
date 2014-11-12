@@ -20,10 +20,10 @@ set autoindent
 set smartindent
 set smarttab
 
-set tabstop=2     " Set tab width to 2 columns
+set tabstop=4     " Set tab width to 4 columns
 set expandtab     " Enable expansion of tabs into spaces
-set shiftwidth=2  " Set indentation commands to move 2 columns at a time
-set softtabstop=2 " Set how many columns to use when tabbing in insert mode
+set shiftwidth=4  " Set indentation commands to move 4 columns at a time
+set softtabstop=4 " Set how many columns to use when tabbing in insert mode
 
 " Makefile sanity
 autocmd BufEnter ?akefile* set noet ts=4 sw=4
