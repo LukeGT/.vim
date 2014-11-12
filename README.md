@@ -14,4 +14,6 @@
     - Coffeescript
     - Jade
     - Stylus
+    - Markdown
     - Zinc/Minizinc
+    - Eco
