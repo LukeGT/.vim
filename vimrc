@@ -3,8 +3,7 @@ set nocompatible " This ain't no vi
 
 set background=dark " Choose colours that work well with a dark background
 set t_Co=256
-let g:molokai_original = 1
-colorscheme molokai
+colorscheme monokai
 
 filetype plugin on " Load plugins for filetypes
 syntax on          " Enable syntax highlighting
