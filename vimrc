@@ -1,6 +1,8 @@
 call pathogen#infect()
 set nocompatible " This ain't no vi
 
+source /usr/share/vim/google/google.vim
+
 set background=dark " Choose colours that work well with a dark background
 set t_Co=256
 colorscheme monokai
