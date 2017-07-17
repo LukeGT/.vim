@@ -56,3 +56,5 @@ set secure " Disable unsafe commands in local .vimrc files
 " Hitting Enter when in Command mode creates a new line
 map <CR> o<ESC>
 map <Del> "_x
+
+set nofixendofline
